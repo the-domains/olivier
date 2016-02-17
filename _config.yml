@@ -1,7 +1,7 @@
 name: olivier
 favicon: null
-layout_spectrum: 0.5240199223626405
-typography_spectrum: 0.5211363334674388
+layout_spectrum: 0
+typography_spectrum: 0.85845
 title: Olivier Tilmant
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8171529686078429
-  lightness: 0.7202489839401096
-  saturation: 0.2713225439656526
-  rhythmicContrast: 0.9677557642571628
+    - '#9cc6ee'
+    - '#ff7d2f'
+    - '#c4412f'
+    - '#998fc1'
+    - '#685888'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
