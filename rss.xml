@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Olivier Tilmant]]></title>
         <description><![CDATA[Olivier Tilmant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olivier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 20:56:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 21:14:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olivier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedd7fe412d-3b0b-4c2f-ab7d-4e0c9adfc805/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77974ab6-cd51-4903-b116-baa6c453d779.JPG">]]></description>
+            <link>https://thegrid.ai/olivier/130ac3b3-b9de-4282-a7fe-7cc505b13da4/index.html</link>
+            <guid isPermaLink="false">130ac3b3-b9de-4282-a7fe-7cc505b13da4</guid>
+            <pubDate>Wed, 17 Feb 2016 21:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dit is mijn eerste post op "the Grid". </p>]]></description>
+            <link>https://thegrid.ai/olivier/d7fe412d-3b0b-4c2f-ab7d-4e0c9adfc805/index.html</link>
             <guid isPermaLink="false">d7fe412d-3b0b-4c2f-ab7d-4e0c9adfc805</guid>
             <pubDate>Wed, 17 Feb 2016 20:55:13 GMT</pubDate>
         </item>
